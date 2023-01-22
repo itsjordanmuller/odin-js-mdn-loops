@@ -1,4 +1,4 @@
-const output = document.querySelector('.output');
+const output = document.querySelector('.countdown-output');
 output.innerHTML = '';
 
 let i = 10;
