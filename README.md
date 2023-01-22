@@ -4,6 +4,8 @@ This section was recommended to me by The Odin Project.
 
 ## Active learning: Launch countdown
 
+- [x] Exercise Complete
+
  In this exercise, we want you to print out a simple launch countdown to the output box, from 10 down to Blastoff. Specifically, we want you to:
 
 - Loop from 10 down to 0. We've provided you with an initializer — let i = 10;.
